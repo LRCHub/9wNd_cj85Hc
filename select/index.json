@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "愛のままに feat. 唾奇",
+  "base_artist": "BASI",
+  "createdAt": "2026-02-12T06:29:10.862024Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛のままに feat. 唾奇 - Ainomamani Feat. Tsubaki (feat. Tsubaki)",
+      "artist": "BASI",
+      "has_synced": true,
+      "path": "select/01_愛のままに_feat._唾奇_-_Ainomamani_Feat._Tsubaki_(feat._Tsubaki)_BASI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛のままに",
+      "artist": "BASI",
+      "has_synced": true,
+      "path": "select/02_愛のままに_BASI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛のままに",
+      "artist": "BASI, 唾奇",
+      "has_synced": false,
+      "path": "select/pl_01_愛のままに_BASI,_唾奇.txt"
+    }
+  ]
+}
